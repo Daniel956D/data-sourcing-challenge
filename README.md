@@ -10,7 +10,7 @@ Python DotenvURL: https://pypi.org/project/python-dotenv/The dotenv library is u
 
 PrettyTable DocumentationURL: https://pypi.org/project/PrettyTable/PrettyTable was used to display intermediate data in a tabular format for better visualization during the development process.
 
-Additional Information for the Professor:
+Additional Information:
 
 This project is aimed at analyzing the time it takes for Coronal Mass Ejections (CMEs) to trigger Geomagnetic Storms (GSTs) using NASA's DONKI API. Below are some key aspects of the project that might be of interest:
 
