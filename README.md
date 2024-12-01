@@ -1,5 +1,4 @@
 # data-sourcing-challenge
-Sources for the README Page:
 
 NASA API DocumentationURL: https://api.nasa.gov/The NASA API documentation provides detailed information on how to use the DONKI (Space Weather Database Of Notifications, Knowledge, Information) API. It includes guidance on endpoints, parameters, and authentication required for accessing CME and GST data.
 
